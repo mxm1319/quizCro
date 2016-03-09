@@ -1,0 +1,65 @@
+[
+	{
+		"question" : "Croatia is located in _______",
+		"answers" : [
+			{ "id" : 0, "text" : "Europe"},
+			{ "id" : 1, "text" : "South America"},
+			{ "id" : 2, "text" : "Asia"},
+			{ "id" : 3, "text" : "Africa"}
+		],
+		"correct" : 0
+	},
+	
+		{
+		"question" : "Which image indicates the emblem of Split?",
+		"answers"  : [
+			{"id"  : 0, "image" : "images/split.jpg" },
+			{"id"  : 1, "image" : "images/zagreb.jpg" },
+			{"id"  : 2, "image" : "images/rijeka.jpg" },
+			{"id"  : 3, "image" : "images/osijek.jpg" }
+		],
+		"correct"  : 0
+	},
+	{
+		"question" : "The largest town in Croatia is _______",
+		"answers"  : [
+			{"id"  : 0, "text" : "Varazdin"},
+			{"id"  : 1, "text" : "Zadar"},
+			{"id"  : 2, "text" : "Split"},
+			{"id"  : 3, "text" : "Zagreb"}
+		],
+		"correct"  : 3,
+		"feedback" : "Zagreb is the largest Croatian town with population of 792 857."
+	},
+	{
+		"question" : "Slaven Belupo is a football club from ________",
+		"answers"  : [
+			{"id"  : 0, "text" : "Dubrovnik"},
+			{"id"  : 1, "text" : "Zadar"},
+			{"id"  : 2, "text" : "Split"},
+			{"id"  : 3, "text" : "Koprivnica"},
+			{"id"  : 4, "text" : "Daruvar"},
+			{"id"  : 5, "text" : "Vinkovci"}
+		],
+		"correct"  : 3
+		
+	},
+	{
+		"question" : "Colors on Croatian flag are: Red, white and blue",
+		"answers"  : [
+			{"id"  : 0, "text" : "True"},
+			{"id"  : 1, "text" : "False"}
+		],
+		"correct"  : 0
+	},
+	
+	{
+		"question" : "This quiz was fun ______",
+		"answers"  : [
+			{"id"  : 0, "text" : "True"},
+			{"id"  : 1, "text" : "False"}
+		],
+		"correct"  : 0
+	}
+	
+]
